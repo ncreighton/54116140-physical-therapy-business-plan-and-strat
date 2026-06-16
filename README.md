@@ -1,2 +1,25 @@
-# 54116140-physical-therapy-business-plan-and-strat
-Complete business plan, market analysis framework, and strategic planning worksheets. Investor-ready planning documents for Physical Therapy.
+# Physical Therapy Business Plan and Strategy Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm5kD5iTbUEf441Zid0q39)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm5kD5iTbUEf441Zid0q39)
+
